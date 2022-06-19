@@ -6,3 +6,5 @@ CoronaSurveys is an ongoing interdisciplinary project developing a system to inf
 - User Privacy
 - Data Analysis
 - Data Visualization
+
+We have found that regions and countries with high human development index have higher cases and deaths per million population due to COVID-19. This is due to international connectedness and mobility of their population related to trade and tourism, and their vulnerability related to older populations and higher rates of non-communicable diseases. We have also identified that the burden of the pandemic is also variable among high- and middle-income countries due to differences in the governance of the pandemic, fragmentation of health systems, and socio-economic inequities.
